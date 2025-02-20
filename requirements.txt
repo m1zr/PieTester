@@ -1,0 +1,6 @@
+sqlite3
+ccxt
+pandas
+openpyxl
+pynescript
+numpy
