@@ -1,6 +1,6 @@
-## PieTester: Backtesting TradingView Strategies with Python
+## PieTester: Backtesting TradingView Strategies with Python!
 
-PieTester is a Python-based script designed to backtest TradingView strategies written in Pine Script.  It provides a powerful and flexible way to evaluate the performance of your Pine Script strategies using historical market data, allowing you to refine and optimize them before deploying them in live trading.
+PieTester is a Python-based open-source script designed to backtest TradingView strategies written in Pine Script.  It provides a powerful and flexible way to evaluate the performance of your Pine Script strategies using historical market data, allowing you to refine and optimize them before deploying them in live trading.
 
 **DISCLAIMER - PLEASE NOTE,** This script is provided purely for educational purposes.  It is not intended for live trading and should not be used as the sole basis for making investment decisions.  Backtesting results are hypothetical and do not guarantee future performance.  The accuracy of this script is not guaranteed, and it may contain errors or limitations.  Use at your own risk.  The author(s) of this script are not liable for any losses incurred as a result of using this script.
 
